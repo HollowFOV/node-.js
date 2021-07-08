@@ -1,34 +1,17 @@
-<!DOCTYPE html>
+<h1>Node.js</h1>
 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Node.js</title>
-    </head>
+<a href="https://nodejs.org/ko/"><img src="https://miro.medium.com/max/1400/1*MuVcoMPyJcq8G4qf5s3HGQ.png" width="200"></a>
 
-    <body>
-        
-        <h1>Node.js</h1>
+<hr>
 
-        <a href="https://nodejs.org/ko/"><img src="https://miro.medium.com/max/1400/1*MuVcoMPyJcq8G4qf5s3HGQ.png" width="200"></a>
+<h3>Goal of the year</h3>
+<ul><li>Private Cloud Storage</li></ul>
 
-        <hr>
+<h3>What to learn?</h3>
 
-        <h3>Goal of the year</h3>
-        <ul><li>Private Cloud Storage</li></ul>
-
-        <h3>What to learn?</h3>
-
-        <ul>
-            <li>Take a quick look at nodes</li>
-            <li>Learn the basic capabilities of nodes</li>
-            <li>Creating a Web Server</li>
-            <li>Creating a Chat Server</li>
-        </ul>
-
-
-
-
-    </body>
-</html>
-  
+<ul>
+<li>Take a quick look at nodes</li>
+<li>Learn the basic capabilities of nodes</li>
+<li>Creating a Web Server</li>
+<li>Creating a Chat Server</li>
+</ul>
