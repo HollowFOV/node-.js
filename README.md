@@ -1,12 +1,4 @@
-<!DOCTYPE html>
 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Node.js</title>
-    </head>
-
-    <body>
         
         <h1>Node.js</h1>
 
@@ -25,9 +17,3 @@
             <li>Creating a Web Server</li>
             <li>Creating a Chat Server</li>
         </ul>
-
-
-
-
-    </body>
-</html>
